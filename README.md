@@ -1,4 +1,10 @@
-### Hi there 👋
+## Henry Zhenghao Chen
+
+Welcome to my page! 
+#### Things I code with:
+Python HTML5 CSS C C# JavaScript Java .NET 7.0 
+
+
 
 <!--
 **Henzhc/henzhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
